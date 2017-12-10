@@ -1,6 +1,6 @@
 ## to log in many different services without input passwd every time.
 1. generate ssh keys.
-2. store keys, such as *id_rsa.pub* to other sevices
+2. copy keys, such as *id_rsa.pub* to other sevices
 3. edit config
 ```
 Host 10.35
